@@ -29,7 +29,7 @@ Deployment options:
 
 ## Migration from 1.x
 
-All required information can be found [here](http://cwiki.apache.org/confluence/display/NIFI/Migration+Guidance)
+All required information can be found [here](http://docs.hortonworks.com/HDPDocuments/HDF2/HDF-2.0.0/bk_upgrade/content/index.html)
 
 
 ## Used ports (all of them are configurable)
