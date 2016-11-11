@@ -73,14 +73,13 @@ To add more flexibility in configuration there are some environment variables ha
 - S2S_PORT - HDF Site-to-site communication port. If empty, default value will be used: 2881
 
 
-## Official Apache HDF Documentation and Guides
+## Official Hortonworks HDF Documentation and Guides
 
-- [Overview](https://nifi.apache.org/docs.html)
-- [User Guide](https://nifi.apache.org/docs/nifi-docs/html/user-guide.html)
-- [Expression Language](https://nifi.apache.org/docs/nifi-docs/html/expression-language-guide.html)
-- [Development Quickstart](https://nifi.apache.org/quickstart.html)
-- [Developer's Guide](https://nifi.apache.org/developer-guide.html)
-- [System Administrator](https://nifi.apache.org/docs/nifi-docs/html/administration-guide.html)
+- [Overview](https://docs.hortonworks.com/HDPDocuments/HDF2/HDF-2.0.0/bk_overview/content/index.html)
+- [User Guide](https://docs.hortonworks.com/HDPDocuments/HDF2/HDF-2.0.0/bk_user-guide/content/index.html)
+- [Expression Language](https://docs.hortonworks.com/HDPDocuments/HDF2/HDF-2.0.0/bk_expression-language/content/index.html)
+- [Developer's Guide](https://docs.hortonworks.com/HDPDocuments/HDF2/HDF-2.0.0/bk_developer-guide/content/index.html)
+- [System Administrator](https://docs.hortonworks.com/HDPDocuments/HDF2/HDF-2.0.0/bk_administration/content/index.html)
 
 
 ## ListenHTTP Processor
