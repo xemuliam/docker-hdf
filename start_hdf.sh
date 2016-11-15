@@ -30,7 +30,6 @@ do_cluster_node_configure() {
  
   if [ ! -z "$ZK_MYID" ]; then
     sed -i "s/nifi\.state\.management\.embedded\.zookeeper\.start=false/nifi.state.management.embedded.zookeeper.start=true/g" ${HDF_HOME}/conf/nifi.properties
-
     mkdir -p ${HDF_HOME}/state/zookeeper
     echo ${ZK_MYID} > ${HDF_HOME}/state/zookeeper/myid
   fi
