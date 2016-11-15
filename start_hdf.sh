@@ -33,8 +33,6 @@ do_cluster_node_configure() {
 
     mkdir -p ${HDF_HOME}/state/zookeeper
     echo ${ZK_MYID} > ${HDF_HOME}/state/zookeeper/myid
-  else 
-    sed -i "s/nifi\.state\.management\.embedded\.zookeeper\.start=true/nifi.state.management.embedded.zookeeper.start=false/g" ${HDF_HOME}/conf/nifi.properties
   fi
 
   if [ -z "$ZK_MONITOR_PORT" ]; then ZK_MONITOR_PORT=2888; fi
@@ -46,9 +44,7 @@ do_cluster_node_configure() {
 sed -i "s/nifi\.ui\.banner\.text=.*/nifi.ui.banner.text=${BANNER_TEXT}/g" ${HDF_HOME}/conf/nifi.properties
 do_site2site_configure
 
-if [ ! -z "$IS_CLUSTER_NODE" ]; then
-  do_cluster_node_configure
-fi
+if [ ! -z "$IS_CLUSTER_NODE" ]; then do_cluster_node_configure; fi
 
 tail -F ${HDF_HOME}/logs/nifi-app.log &
 ${HDF_HOME}/bin/nifi.sh run
