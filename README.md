@@ -18,6 +18,6 @@ Created from HDF [base image](https://hub.docker.com/r/xemuliam/hdf-base) to min
 Please bear in mind that HDF is powered by Apache NiFi.
 Thus all NiFi-related information is applicable to HDF.
 
-Please use [link](https://hub.docker.com/r/xemuliam/nifi/) on my NiFi repository to read some important things.
+Please go to my [NiFi repository](https://hub.docker.com/r/xemuliam/nifi/) to read some useful/important things.
 
 # Enjoy! :)
