@@ -11,7 +11,7 @@ Created from HDF [base image](https://hub.docker.com/r/xemuliam/hdf-base) to min
            /"""""""""""""""""\___/ ===
       ~~~ {~~ ~~~~ ~~~ ~~~~ ~~~ ~ /  ===- ~~~
            \______ o   HDF     __/
-             \    \    2.0  __/
+             \    \   2.0.1 __/
               \____\_______/
 
 
