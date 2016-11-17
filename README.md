@@ -1,4 +1,4 @@
-![](http://zdatainc.com/wp-content/uploads/2016/02/HDF_icon-268x300.png)
+![](http://hortonworks.com/wp-content/uploads/2016/03/hdf_icon.jpg)
 
 # HDF ![](https://images.microbadger.com/badges/version/xemuliam/hdf:2.0.1.svg) ![](https://images.microbadger.com/badges/image/xemuliam/hdf:2.0.1.svg)
 [Docker](https://www.docker.com/what-docker) image for [Hortonworks DataFlow](http://hortonworks.com/products/data-center/hdf/).
