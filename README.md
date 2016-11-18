@@ -1,4 +1,4 @@
-![](http://hortonworks.com/wp-content/uploads/2016/03/hdf_icon.jpg)
+![](hdf-header-uni-590.png)
 
 # HDF
 - ![](https://images.microbadger.com/badges/version/xemuliam/hdf:2.0.1.svg) ![](https://images.microbadger.com/badges/image/xemuliam/hdf:2.0.1.svg)
