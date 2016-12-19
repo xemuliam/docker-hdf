@@ -1,7 +1,9 @@
 ![hdf-logo](https://s14.postimg.org/9sh6s31tt/hdf_header_uni_590.png)
 
 # HDF
+- ![](https://images.microbadger.com/badges/version/xemuliam/hdf:2.1.0.svg) ![](https://images.microbadger.com/badges/image/xemuliam/hdf:2.1.0.svg)
 - ![](https://images.microbadger.com/badges/version/xemuliam/hdf:2.0.1.svg) ![](https://images.microbadger.com/badges/image/xemuliam/hdf:2.0.1.svg)
+- ![](https://images.microbadger.com/badges/version/xemuliam/hdf:1ю2.0.1.svg) ![](https://images.microbadger.com/badges/image/xemuliam/hdf:1ю2.0.1.svg)
 
 
 [Docker](https://www.docker.com/what-docker) image for [Hortonworks DataFlow](http://hortonworks.com/products/data-center/hdf/).
@@ -16,7 +18,7 @@ Created from HDF [base image](https://hub.docker.com/r/xemuliam/hdf-base) to min
            /"""""""""""""""""\___/ ===
       ~~~ {~~ ~~~~ ~~~ ~~~~ ~~~ ~ /  ===- ~~~
            \______ o   HDF     __/
-             \    \   2.0.1 __/
+             \    \         __/
               \____\_______/
 
 
