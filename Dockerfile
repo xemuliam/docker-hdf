@@ -1,4 +1,4 @@
-FROM       xemuliam/hdf-base
+FROM       xemuliam/hdf-base:2.1.0
 MAINTAINER Viacheslav Kalashnikov <xemuliam@gmail.com>
 ENV        BANNER_TEXT="" \
            S2S_PORT=""
