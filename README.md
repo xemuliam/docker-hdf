@@ -8,7 +8,7 @@
 
 [Docker](https://www.docker.com/what-docker) image for [Hortonworks DataFlow](http://hortonworks.com/products/data-center/hdf/).
 
-- ![Docker Pulls](https://img.shields.io/docker/pulls/xemuliam/hdf.svg) ![Docker Stars](https://img.shields.io/docker/stars/xemuliam/hdf.svg)
+- ![Docker builds](https://img.shields.io/docker/automated/xemuliam/hdf.svg) ![Docker Pulls](https://img.shields.io/docker/pulls/xemuliam/hdf.svg) ![Docker Stars](https://img.shields.io/docker/stars/xemuliam/hdf.svg)
 
 Created from HDF [base image](https://hub.docker.com/r/xemuliam/hdf-base) to minimize traffic and deployment time in case of changes should be applied on top of HDF
 
