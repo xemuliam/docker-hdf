@@ -7,6 +7,7 @@ start
 :foo3;
 |Swimlane1|
 :foo4;
+:theExample;
 |Swimlane2|
 :foo5;
 stop
